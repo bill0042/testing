@@ -314,7 +314,7 @@
             "tags": [
                 "PVE"
             ],
-            "description": "Appetence is our first weapon. Being a stasis trace rifle already gives Appetence viability in a lot of loadouts. No longer are you tied to Ager's Scepter for a \"kinetic\" trace rifle. Appetence is also legendary so you open up a plethora of loadout possibilities. In PvE you can make the most of this trace rifle with Overflow and Killing Tally for a 21% Delirium-lite. Being able to walk over bricks of special to double the magazine capacity keeps Killing Tally primed and ready to rip into any wave of enemy you might have in front of you. If you prefer a more calculated approach or don't want to use just one weapon, Headstone is extremely strong with the buffed Stasis subclasses.\n\nTaking Appetence into the crucible might be a big test of your patience. Already having low ammo, and the current economy of ammo bricks will severely limit your overall usage. If you can horde ammo bricks like Scrooge you can certainly make this weapon work better. Enlightened Action will make the weapon feel better, and Headstone can deny revives or build into the Stasis subclass like in PvE. Killing Tally can work if you use nothing but this trace rifle but I wouldn't advise it.\nMasterworks: PvE: Reload Speed PvP: Range"
+            "description": "Appetence is our first weapon. Being a stasis trace rifle already gives Appetence viability in a lot of loadouts. No longer are you tied to Ager's Scepter for a \"kinetic\" trace rifle. Appetence is also legendary so you open up a plethora of loadout possibilities. In PvE you can make the most of this trace rifle with Overflow and Killing Tally for a 21% Delirium-lite. Being able to walk over bricks of special to double the magazine capacity keeps Killing Tally primed and ready to rip into any wave of enemy you might have in front of you. If you prefer a more calculated approach or don't want to use just one weapon, Headstone is extremely strong with the buffed Stasis subclasses.\nMasterwork: Reload Speed"
         },
         {
             "hash": 4153087276,
@@ -370,6 +370,7 @@
             "tags": [
                 "PVP"
             ]
+            "description": "Taking Appetence into the crucible might be a big test of your patience. Already having low ammo, and the current economy of ammo bricks will severely limit your overall usage. If you can horde ammo bricks like Scrooge you can certainly make this weapon work better. Enlightened Action will make the weapon feel better, and Headstone can deny revives or build into the Stasis subclass like in PvE. Killing Tally can work if you use nothing but this trace rifle but I wouldn't advise it.\nMasterwork: Range"
         },
         {
             "hash": 4153087276,
