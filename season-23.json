@@ -899,8 +899,7 @@
             ],
             "tags": [
                 "PVE"
-            ],
-            "description": "Blast Furnace is probably the best feeling 450 aggressive frame pulse. Personally I liked the Meyrin RDL scope as it highlighted targets, but I can understand it wasn't everyone's cup of tea. The best combo that I will be farming for will be Kinetic Tremors and Firefly for AoE on top of AoE. Keep Away also serves as a good reload perk, while also making it easier to get yellow numbers. Shoot to Loot combined with Firefly will allow you to pick up orbs and ammo from afar.\n\nThe curated roll of Blast Furnace comes with Perpetual Motion and Kill Clip allowing you to bump up your stats by moving and get extra damage on top. While I don't believe it's the best roll overall, it does allow for some utility in both PvE and PvP.\nMasterworks: Range, Stability, Handling, Reload Speed"
+            ]
         },
         {
             "hash": 2372514508,
@@ -946,8 +945,7 @@
             ],
             "tags": [
                 "PVP"
-            ],
-            "description": "Over in the Crucible Blast Furnace has yet to make its mark. It has some stiff competition in the form of both Belisarius-D and Disparity. Both of which come with some incredible rolls. Outside of its frame you have some other strong pulses like the new Relentless or Messenger (Adept). Blast Furnace does have a leg up over recent additions with the combination of Zen Moment and Kill Clip for easy follow-up two burst kills. Outside of S16 Messenger (which might not be possible due to the perk updates) no other aggressive frame pulse has that combination. (Elsie's Rifle also gets this combo but we will talk about that later).\n\nAnother lethal combo is Headseeker and Kill Clip which allows for double damage, the only other pulse to get this combination is Chattering Bone.\nMasterworks: Stability"
+            ]
         },
         {
             "hash": 2372514508,
@@ -969,6 +967,10 @@
                 "GodPVP"
             ]
         },
+        {
+            "hash": 2372514508,
+            "description": "Blast Furnace is probably the best feeling 450 aggressive frame pulse. Personally I liked the Meyrin RDL scope as it highlighted targets, but I can understand it wasn't everyone's cup of tea. The best combo that I will be farming for will be Kinetic Tremors and Firefly for AoE on top of AoE. Keep Away also serves as a good reload perk, while also making it easier to get yellow numbers. Shoot to Loot combined with Firefly will allow you to pick up orbs and ammo from afar.\n\nThe curated roll of Blast Furnace comes with Perpetual Motion and Kill Clip allowing you to bump up your stats by moving and get extra damage on top. While I don't believe it's the best roll overall, it does allow for some utility in both PvE and PvP.\nMasterworks: Range, Stability, Handling, Reload Speed"
+	},
         {
             "hash": 2026755633,
             "plugs": [
