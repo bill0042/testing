@@ -488,24 +488,26 @@
                     2371713880
                 ],
                 [
-                    3230963543,
                     106909392,
-                    3142289711,
+                    3230963543,
                     1087426260,
-                    1709045111,
+                    3142289711,
                     1783397184,
-                    3267421167,
-                    1065371964
+                    1709045111,
+                    1065371964,
+                    3267421167
                 ],
                 [
                     1546637391,
+                    4071163871,
+                    1126264488,
                     1631667848,
                     4190679284,
-                    4071163871,
                     3418165135,
+                    494941759,
+                    2476672792,
                     402033656,
-                    820036316,
-                    494941759
+                    820036316
                 ],
                 [
                     3751912585,
@@ -520,7 +522,7 @@
                 "PVE"
             ],
             "originalWishlist": "spacemonkey/controller/season-27",
-            "description": "We dont know if this archetype is any good in PvP, so Im going to begin with reviewing just the PvE side of things. This could be a fantastic gun for bursting down elites and minibosses, and supports melee builds really well in addition. One-Two Punch is only 50% effective on this archetype, so probably just not worth it. My assumption at this point is that Trench Barrel will also be nerfed on this gun, so Im preparing myself for disappointment there. Vorpal + Cascade Point sounds too funny. Also, the API currently is showing that Aureus Neutralizer will drop with shotgun barrels rather than gun barrels (like the just released Phoneutria Fera has). Im guessing this might be a bug, but Im going to give recommendations as though the API is correct for now.\nPvE Masterworks: Reload, Handling"
+            "description": "We dont know if this archetype is any good in PvP, so Im going to begin with reviewing just the PvE side of things. This could be a fantastic gun for bursting down elites and minibosses, and supports melee builds really well in addition. One-Two Punch is only 50% effective on this archetype, so probably just not worth it. My assumption at this point is that Trench Barrel will also be nerfed on this gun, so Im preparing myself for disappointment there. Vorpal + Cascade Point sounds too funny. Also, the API currently is showing that Aureus Neutralizer will drop with shotgun barrels rather than gun barrels (like the just released Phoneutria Fera has). Im guessing this might be a bug, but Im going to give recommendations as though the API is correct for now. The main draw here is probably Vorpal + Cascade Point for a Lucky Pants hunter.\nPvE Masterworks: Reload, Range, Handling"
         },
         {
             "hash": 3981920134,
@@ -530,16 +532,26 @@
                     111235976
                 ],
                 [
+                    106909392,
                     3230963543,
-                    1709045111
+                    1087426260,
+                    1783397184,
+                    1709045111,
+                    1065371964
                 ],
                 [
                     1546637391,
-                    3418165135
+                    4071163871,
+                    1126264488,
+                    3418165135,
+                    494941759,
+                    2476672792
                 ],
                 [
                     3751912585,
-                    331667533
+                    2360754333,
+                    331667533,
+                    2459015849
                 ]
             ],
             "tags": [
@@ -766,12 +778,12 @@
                     3081681954
                 ],
                 [
+                    1570042021,
                     247725512,
                     3218042543,
-                    1570042021,
+                    2748258257,
                     2938480696,
-                    2633604463,
-                    2748258257
+                    2633604463
                 ],
                 [
                     2652708987,
@@ -797,7 +809,9 @@
                     1279785143
                 ],
                 [
+                    1570042021,
                     247725512,
+                    2748258257,
                     2938480696
                 ],
                 [
@@ -950,6 +964,148 @@
             "originalWishlist": "spacemonkey/controller/season-27"
         },
         {
+            "hash": 3977654524,
+            "plugs": [
+                [
+                    3525010810,
+                    3798852852,
+                    3809316345,
+                    1441682018,
+                    3250572790,
+                    582768348,
+                    2052299741,
+                    1639399262
+                ],
+                [
+                    2822142346,
+                    2108812838
+                ],
+                [
+                    3523296417,
+                    2010801679,
+                    923806249,
+                    1017229899,
+                    1906147653,
+                    3797647183,
+                    3422796781,
+                    3696140595
+                ],
+                [
+                    243981275,
+                    4049631843,
+                    4104185692,
+                    1546637391,
+                    1089671869,
+                    984655331,
+                    859780267,
+                    3007133316,
+                    3418165135,
+                    496047945
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ],
+            "originalWishlist": "spacemonkey/controller/season-27",
+            "description": "The hype for this would have been pretty unreal if attrition orbs hadnt been nerfed on this archetype. Sadly this will struggle when compared to Lost Signal (autoloading holster) and is mostly directly comparable to VS Velocity Baton - which is also better than this since Destabilizing Rounds as a column 2 perk is better than any of the damage perks this one gets for this frame. A cool weapon and a welcome addition to our arsenals regardless.\nPvE Masterworks: Reload, Handling"
+        },
+        {
+            "hash": 3977654524,
+            "plugs": [
+                [
+                    3525010810,
+                    3250572790
+                ],
+                [
+                    2822142346,
+                    2108812838
+                ],
+                [
+                    3523296417,
+                    1906147653
+                ],
+                [
+                    243981275,
+                    984655331
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ],
+            "originalWishlist": "spacemonkey/controller/season-27"
+        },
+        {
+            "hash": 4019651319,
+            "plugs": [
+                [
+                    3525010810,
+                    3798852852,
+                    3809316345,
+                    1441682018,
+                    3250572790,
+                    582768348,
+                    2052299741,
+                    1639399262
+                ],
+                [
+                    2822142346,
+                    2108812838
+                ],
+                [
+                    3523296417,
+                    2010801679,
+                    923806249,
+                    1017229899,
+                    1906147653,
+                    3797647183,
+                    3422796781,
+                    3696140595
+                ],
+                [
+                    243981275,
+                    4049631843,
+                    4104185692,
+                    1546637391,
+                    1089671869,
+                    984655331,
+                    859780267,
+                    3007133316,
+                    3418165135,
+                    496047945
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ],
+            "originalWishlist": "spacemonkey/controller/season-27",
+            "description": "The hype for this would have been pretty unreal if attrition orbs hadnt been nerfed on this archetype. Sadly this will struggle when compared to Lost Signal (autoloading holster) and is mostly directly comparable to VS Velocity Baton - which is also better than this since Destabilizing Rounds as a column 2 perk is better than any of the damage perks this one gets for this frame. A cool weapon and a welcome addition to our arsenals regardless.\nPvE Masterworks: Reload, Handling"
+        },
+        {
+            "hash": 4019651319,
+            "plugs": [
+                [
+                    3525010810,
+                    3250572790
+                ],
+                [
+                    2822142346,
+                    2108812838
+                ],
+                [
+                    3523296417,
+                    1906147653
+                ],
+                [
+                    243981275,
+                    984655331
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ],
+            "originalWishlist": "spacemonkey/controller/season-27"
+        },
+        {
             "hash": 3241217409,
             "plugs": [
                 [
@@ -1052,8 +1208,10 @@
                     1523649716
                 ],
                 [
+                    555281244,
                     460017080,
                     1015611457,
+                    332733060,
                     4045335048,
                     2923251173
                 ]
@@ -1082,14 +1240,158 @@
                     1523649716
                 ],
                 [
+                    555281244,
                     460017080,
                     1015611457,
+                    332733060,
                     4045335048,
                     2923251173
                 ]
             ],
             "tags": [
                 "GodPVP"
+            ],
+            "originalWishlist": "spacemonkey/controller/season-27"
+        },
+        {
+            "hash": 2631466936,
+            "plugs": [
+                [
+                    852209214,
+                    2801223209,
+                    3837163218,
+                    3956406253
+                ],
+                [
+                    3429800428,
+                    3827198035,
+                    52802868,
+                    1649480699
+                ],
+                [
+                    2848615171,
+                    776531651,
+                    201365942,
+                    2652708987,
+                    169755979,
+                    2541826827,
+                    3523746922,
+                    617966211
+                ],
+                [
+                    1464081238,
+                    2048641572,
+                    3365897133,
+                    2813913866,
+                    1926441324,
+                    1551736345
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ],
+            "originalWishlist": "spacemonkey/controller/season-27",
+            "description": "Its back again and this time it has been changed to be a precision frame - likely to differentiate it from Anamnesis from last season. It gets pretty standard void bow stuff now, and two pretty notable rolls with Dragonfly + Demoralize giving you a nice gameplay loop where you get one kill in a crowd, splash damage Dragonfly all around and soften up targets at the same time that you apply weaken to those same enemies which then allows for an easy cleanup. The other roll is the tried-and-true stock standard Repulsor Brace + Destabilizing Rounds roll that every void weapon must have in its contract. Sadly both origin traits that this gets are not good for this bow.\nPvE Masterworks: Draw Time, Accuracy"
+        },
+        {
+            "hash": 2631466936,
+            "plugs": [
+                [
+                    852209214,
+                    2801223209,
+                    3837163218,
+                    3956406253
+                ],
+                [
+                    3429800428,
+                    52802868
+                ],
+                [
+                    2848615171,
+                    776531651,
+                    169755979,
+                    2541826827
+                ],
+                [
+                    1464081238,
+                    2048641572,
+                    2813913866,
+                    1926441324
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ],
+            "originalWishlist": "spacemonkey/controller/season-27"
+        },
+        {
+            "hash": 591672323,
+            "plugs": [
+                [
+                    852209214,
+                    2801223209,
+                    3837163218,
+                    3956406253
+                ],
+                [
+                    3429800428,
+                    3827198035,
+                    52802868,
+                    1649480699
+                ],
+                [
+                    2848615171,
+                    776531651,
+                    201365942,
+                    2652708987,
+                    169755979,
+                    2541826827,
+                    3523746922,
+                    617966211
+                ],
+                [
+                    1464081238,
+                    2048641572,
+                    3365897133,
+                    2813913866,
+                    1926441324,
+                    1551736345
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ],
+            "originalWishlist": "spacemonkey/controller/season-27",
+            "description": "Its back again and this time it has been changed to be a precision frame - likely to differentiate it from Anamnesis from last season. It gets pretty standard void bow stuff now, and two pretty notable rolls with Dragonfly + Demoralize giving you a nice gameplay loop where you get one kill in a crowd, splash damage Dragonfly all around and soften up targets at the same time that you apply weaken to those same enemies which then allows for an easy cleanup. The other roll is the tried-and-true stock standard Repulsor Brace + Destabilizing Rounds roll that every void weapon must have in its contract. Sadly both origin traits that this gets are not good for this bow.\nPvE Masterworks: Draw Time, Accuracy"
+        },
+        {
+            "hash": 591672323,
+            "plugs": [
+                [
+                    852209214,
+                    2801223209,
+                    3837163218,
+                    3956406253
+                ],
+                [
+                    3429800428,
+                    52802868
+                ],
+                [
+                    2848615171,
+                    776531651,
+                    169755979,
+                    2541826827
+                ],
+                [
+                    1464081238,
+                    2048641572,
+                    2813913866,
+                    1926441324
+                ]
+            ],
+            "tags": [
+                "GodPVE"
             ],
             "originalWishlist": "spacemonkey/controller/season-27"
         },
@@ -1853,73 +2155,81 @@
             "hash": 3496887154,
             "plugs": [
                 [
-                    1840239774,
                     3250034553,
+                    202670084,
                     4090651448,
-                    839105230,
                     1482024992,
-                    1124871858,
+                    1840239774,
                     1147230557,
+                    1871180748,
                     111235976,
-                    3048246338,
-                    2860123632
+                    2860123632,
+                    1124871858
                 ],
                 [
-                    3230963543,
                     106909392,
-                    3142289711,
+                    3230963543,
                     1087426260,
-                    1709045111,
+                    3142289711,
                     1783397184,
-                    3267421167,
-                    1065371964
+                    1709045111,
+                    1065371964,
+                    3267421167
                 ],
                 [
-                    3161816588,
+                    1126264488,
                     4071163871,
                     4190679284,
-                    191144788,
+                    3161816588,
+                    2476672792,
                     494941759,
-                    820036316
+                    820036316,
+                    191144788
                 ],
                 [
+                    3708227201,
                     4293542123,
                     4082225868,
                     2679249093,
+                    4104185692,
+                    781192741,
                     2675184851,
                     1161469972,
-                    788178929
+                    788178929,
+                    3007133316
                 ]
             ],
             "tags": [
                 "PVE"
             ],
             "originalWishlist": "spacemonkey/controller/season-27",
-            "description": "One of two new Spread Shot hand cannons being added to the game. This one was mostly going to be a beast as a support for melee builds, except that One-Two Punch is only 50% effective on this gun. The way the math works out it really isnt worth it here, and youre better off using a real one-two punch weapon and use this as primary add clear. The reload and range are both problematic, which makes Slideshot the default best option here.\nPvE Masterworks: Reload, Handling"
+            "description": "One of two new Spread Shot hand cannons being added to the game. This one was mostly going to be a beast as a support for melee builds, except that One-Two Punch is only 50% effective on this gun. The way the math works out it really isnt worth it here, and youre better off using a real one-two punch weapon and use this as primary add clear. The reload and range are both problematic, which should have made Slideshot the default best option here - but unfortunately it doesnt reload enough ammo per slide to justify the slot. Proximity Power sounds good on paper, but in reality any build that is going hard into melee is likely already selling out big time for the 200 melee stat anyway and you dont really want to be tied to your whole build only working when a perk on a weapon activates. The major benefit of this gun is the high damage that it deals when at close range and mixing it up, so to that end Surrounded (especially enhanced Surrounded) is probably the best choice for those wanting to use this weapon. That (or Incandescent tbh) paired with either of the Threat perk 1s is probably the ideal combo, and then you really need Reload > Range > Mag Size. Very stat hungry weapon. The Tenacity origin trait is awesome btw. You get up to 20% damage, 40 reload, and 40 handling based on stacks - kinda like a better Field Tested, which I love - granted, Tenacity needs kills with at least 2 enemies within 15 meters, whereas Field Tested just needs hits, but the point stands.\nPvE Masterworks: Reload, Range, Handling"
         },
         {
             "hash": 3496887154,
             "plugs": [
                 [
-                    1840239774,
                     3250034553,
-                    1124871858,
                     1147230557
                 ],
                 [
-                    3230963543,
                     106909392,
+                    3230963543,
+                    1087426260,
+                    1783397184,
                     1709045111,
-                    1783397184
+                    1065371964
                 ],
                 [
-                    3161816588,
+                    1126264488,
                     4071163871,
-                    191144788,
+                    2476672792,
                     494941759
                 ],
                 [
+                    3708227201,
                     4293542123,
+                    781192741,
                     2675184851
                 ]
             ],
@@ -1932,73 +2242,81 @@
             "hash": 3804242792,
             "plugs": [
                 [
-                    1840239774,
                     3250034553,
+                    202670084,
                     4090651448,
-                    839105230,
                     1482024992,
-                    1124871858,
+                    1840239774,
                     1147230557,
+                    1871180748,
                     111235976,
-                    3048246338,
-                    2860123632
+                    2860123632,
+                    1124871858
                 ],
                 [
-                    3230963543,
                     106909392,
-                    3142289711,
+                    3230963543,
                     1087426260,
-                    1709045111,
+                    3142289711,
                     1783397184,
-                    3267421167,
-                    1065371964
+                    1709045111,
+                    1065371964,
+                    3267421167
                 ],
                 [
-                    3161816588,
+                    1126264488,
                     4071163871,
                     4190679284,
-                    191144788,
+                    3161816588,
+                    2476672792,
                     494941759,
-                    820036316
+                    820036316,
+                    191144788
                 ],
                 [
+                    3708227201,
                     4293542123,
                     4082225868,
                     2679249093,
+                    4104185692,
+                    781192741,
                     2675184851,
                     1161469972,
-                    788178929
+                    788178929,
+                    3007133316
                 ]
             ],
             "tags": [
                 "PVE"
             ],
             "originalWishlist": "spacemonkey/controller/season-27",
-            "description": "One of two new Spread Shot hand cannons being added to the game. This one was mostly going to be a beast as a support for melee builds, except that One-Two Punch is only 50% effective on this gun. The way the math works out it really isnt worth it here, and youre better off using a real one-two punch weapon and use this as primary add clear. The reload and range are both problematic, which makes Slideshot the default best option here.\nPvE Masterworks: Reload, Handling"
+            "description": "One of two new Spread Shot hand cannons being added to the game. This one was mostly going to be a beast as a support for melee builds, except that One-Two Punch is only 50% effective on this gun. The way the math works out it really isnt worth it here, and youre better off using a real one-two punch weapon and use this as primary add clear. The reload and range are both problematic, which should have made Slideshot the default best option here - but unfortunately it doesnt reload enough ammo per slide to justify the slot. Proximity Power sounds good on paper, but in reality any build that is going hard into melee is likely already selling out big time for the 200 melee stat anyway and you dont really want to be tied to your whole build only working when a perk on a weapon activates. The major benefit of this gun is the high damage that it deals when at close range and mixing it up, so to that end Surrounded (especially enhanced Surrounded) is probably the best choice for those wanting to use this weapon. That (or Incandescent tbh) paired with either of the Threat perk 1s is probably the ideal combo, and then you really need Reload > Range > Mag Size. Very stat hungry weapon. The Tenacity origin trait is awesome btw. You get up to 20% damage, 40 reload, and 40 handling based on stacks - kinda like a better Field Tested, which I love - granted, Tenacity needs kills with at least 2 enemies within 15 meters, whereas Field Tested just needs hits, but the point stands.\nPvE Masterworks: Reload, Range, Handling"
         },
         {
             "hash": 3804242792,
             "plugs": [
                 [
-                    1840239774,
                     3250034553,
-                    1124871858,
                     1147230557
                 ],
                 [
-                    3230963543,
                     106909392,
+                    3230963543,
+                    1087426260,
+                    1783397184,
                     1709045111,
-                    1783397184
+                    1065371964
                 ],
                 [
-                    3161816588,
+                    1126264488,
                     4071163871,
-                    191144788,
+                    2476672792,
                     494941759
                 ],
                 [
+                    3708227201,
                     4293542123,
+                    781192741,
                     2675184851
                 ]
             ],
@@ -2011,73 +2329,81 @@
             "hash": 3804242793,
             "plugs": [
                 [
-                    1840239774,
                     3250034553,
+                    202670084,
                     4090651448,
-                    839105230,
                     1482024992,
-                    1124871858,
+                    1840239774,
                     1147230557,
+                    1871180748,
                     111235976,
-                    3048246338,
-                    2860123632
+                    2860123632,
+                    1124871858
                 ],
                 [
-                    3230963543,
                     106909392,
-                    3142289711,
+                    3230963543,
                     1087426260,
-                    1709045111,
+                    3142289711,
                     1783397184,
-                    3267421167,
-                    1065371964
+                    1709045111,
+                    1065371964,
+                    3267421167
                 ],
                 [
-                    3161816588,
+                    1126264488,
                     4071163871,
                     4190679284,
-                    191144788,
+                    3161816588,
+                    2476672792,
                     494941759,
-                    820036316
+                    820036316,
+                    191144788
                 ],
                 [
+                    3708227201,
                     4293542123,
                     4082225868,
                     2679249093,
+                    4104185692,
+                    781192741,
                     2675184851,
                     1161469972,
-                    788178929
+                    788178929,
+                    3007133316
                 ]
             ],
             "tags": [
                 "PVE"
             ],
             "originalWishlist": "spacemonkey/controller/season-27",
-            "description": "One of two new Spread Shot hand cannons being added to the game. This one was mostly going to be a beast as a support for melee builds, except that One-Two Punch is only 50% effective on this gun. The way the math works out it really isnt worth it here, and youre better off using a real one-two punch weapon and use this as primary add clear. The reload and range are both problematic, which makes Slideshot the default best option here.\nPvE Masterworks: Reload, Handling"
+            "description": "One of two new Spread Shot hand cannons being added to the game. This one was mostly going to be a beast as a support for melee builds, except that One-Two Punch is only 50% effective on this gun. The way the math works out it really isnt worth it here, and youre better off using a real one-two punch weapon and use this as primary add clear. The reload and range are both problematic, which should have made Slideshot the default best option here - but unfortunately it doesnt reload enough ammo per slide to justify the slot. Proximity Power sounds good on paper, but in reality any build that is going hard into melee is likely already selling out big time for the 200 melee stat anyway and you dont really want to be tied to your whole build only working when a perk on a weapon activates. The major benefit of this gun is the high damage that it deals when at close range and mixing it up, so to that end Surrounded (especially enhanced Surrounded) is probably the best choice for those wanting to use this weapon. That (or Incandescent tbh) paired with either of the Threat perk 1s is probably the ideal combo, and then you really need Reload > Range > Mag Size. Very stat hungry weapon. The Tenacity origin trait is awesome btw. You get up to 20% damage, 40 reload, and 40 handling based on stacks - kinda like a better Field Tested, which I love - granted, Tenacity needs kills with at least 2 enemies within 15 meters, whereas Field Tested just needs hits, but the point stands.\nPvE Masterworks: Reload, Range, Handling"
         },
         {
             "hash": 3804242793,
             "plugs": [
                 [
-                    1840239774,
                     3250034553,
-                    1124871858,
                     1147230557
                 ],
                 [
-                    3230963543,
                     106909392,
+                    3230963543,
+                    1087426260,
+                    1783397184,
                     1709045111,
-                    1783397184
+                    1065371964
                 ],
                 [
-                    3161816588,
+                    1126264488,
                     4071163871,
-                    191144788,
+                    2476672792,
                     494941759
                 ],
                 [
+                    3708227201,
                     4293542123,
+                    781192741,
                     2675184851
                 ]
             ],
@@ -2347,8 +2673,12 @@
                 ],
                 [
                     3017780555,
+                    1556840489,
+                    951095735,
                     1017229899,
                     4223976499,
+                    3442762221,
+                    3878366039,
                     3696140595
                 ],
                 [
@@ -3753,6 +4083,172 @@
             ],
             "tags": [
                 "GodPVP"
+            ],
+            "originalWishlist": "spacemonkey/controller/season-27"
+        },
+        {
+            "hash": 2965080304,
+            "plugs": [
+                [
+                    3250034553,
+                    4090651448,
+                    1482024992,
+                    1840239774,
+                    839105230,
+                    1147230557,
+                    111235976,
+                    2860123632,
+                    1124871858,
+                    3048246338
+                ],
+                [
+                    1968497646,
+                    3230963543,
+                    679225683,
+                    1561002382,
+                    1885400500,
+                    2172195298,
+                    1709045111,
+                    1807273211,
+                    494745090,
+                    1968098204
+                ],
+                [
+                    243981275,
+                    3017780555,
+                    984655331,
+                    4223976499
+                ],
+                [
+                    2890807135,
+                    3640170453,
+                    4293542123,
+                    3581929919,
+                    1817983009,
+                    2675184851
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ],
+            "originalWishlist": "spacemonkey/controller/season-27",
+            "description": "This is the weapon Im most excited about from this years solstice. Lightweight SMGs are great, both from a feel perspective and the fact that theyre the top performers numbers-wise from the whole submachine gun family. What makes Multimach and Noxious Vetiver great are the fact that they crank out massive utility really quickly with Attrition Orbs + an elemental on-hit AoE (kinetic tremors and jolting feedback, respectively). Yeartides answer to that gameplan is Attrition Orbs + Burning Ambition - is that good enough? Very possibly, especially if you can get armor-piercing rounds so that your bullets pull double-duty stacking up the proc count for Burning Ambition to go off. Burning Ambition also functions well at stacking up scorch on targets that already have scorch, so this will fit well into any solar builds out there. Remember that for Attrition Orbs you want the smallest mag size you can get. You do have the options of Heal Clip and then Chaos Reshaped and Incandescent, but my main issue with all of those perks is that it relies on this gun being the gun getting the kills, and SMGs are not good at that right now. What makes this weapon family shine is pure utility, not slaying. You can go for one of those rolls and youll likely be quite happy with it in a lot of content, but it wont be what Im looking for for high-end content.\nPvE Masterworks: Reload, Range*, Handling"
+        },
+        {
+            "hash": 2965080304,
+            "plugs": [
+                [
+                    3250034553,
+                    4090651448,
+                    1147230557,
+                    111235976
+                ],
+                [
+                    1968497646,
+                    3230963543,
+                    679225683,
+                    2172195298,
+                    1709045111,
+                    1807273211
+                ],
+                [
+                    243981275,
+                    3017780555,
+                    984655331,
+                    4223976499
+                ],
+                [
+                    2890807135,
+                    3640170453,
+                    3581929919,
+                    1817983009
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ],
+            "originalWishlist": "spacemonkey/controller/season-27"
+        },
+        {
+            "hash": 3293207827,
+            "plugs": [
+                [
+                    3250034553,
+                    4090651448,
+                    1482024992,
+                    1840239774,
+                    839105230,
+                    1147230557,
+                    111235976,
+                    2860123632,
+                    1124871858,
+                    3048246338
+                ],
+                [
+                    1968497646,
+                    3230963543,
+                    679225683,
+                    1561002382,
+                    1885400500,
+                    2172195298,
+                    1709045111,
+                    1807273211,
+                    494745090,
+                    1968098204
+                ],
+                [
+                    243981275,
+                    3017780555,
+                    984655331,
+                    4223976499
+                ],
+                [
+                    2890807135,
+                    3640170453,
+                    4293542123,
+                    3581929919,
+                    1817983009,
+                    2675184851
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ],
+            "originalWishlist": "spacemonkey/controller/season-27",
+            "description": "This is the weapon Im most excited about from this years solstice. Lightweight SMGs are great, both from a feel perspective and the fact that theyre the top performers numbers-wise from the whole submachine gun family. What makes Multimach and Noxious Vetiver great are the fact that they crank out massive utility really quickly with Attrition Orbs + an elemental on-hit AoE (kinetic tremors and jolting feedback, respectively). Yeartides answer to that gameplan is Attrition Orbs + Burning Ambition - is that good enough? Very possibly, especially if you can get armor-piercing rounds so that your bullets pull double-duty stacking up the proc count for Burning Ambition to go off. Burning Ambition also functions well at stacking up scorch on targets that already have scorch, so this will fit well into any solar builds out there. Remember that for Attrition Orbs you want the smallest mag size you can get. You do have the options of Heal Clip and then Chaos Reshaped and Incandescent, but my main issue with all of those perks is that it relies on this gun being the gun getting the kills, and SMGs are not good at that right now. What makes this weapon family shine is pure utility, not slaying. You can go for one of those rolls and youll likely be quite happy with it in a lot of content, but it wont be what Im looking for for high-end content.\nPvE Masterworks: Reload, Range*, Handling"
+        },
+        {
+            "hash": 3293207827,
+            "plugs": [
+                [
+                    3250034553,
+                    4090651448,
+                    1147230557,
+                    111235976
+                ],
+                [
+                    1968497646,
+                    3230963543,
+                    679225683,
+                    2172195298,
+                    1709045111,
+                    1807273211
+                ],
+                [
+                    243981275,
+                    3017780555,
+                    984655331,
+                    4223976499
+                ],
+                [
+                    2890807135,
+                    3640170453,
+                    3581929919,
+                    1817983009
+                ]
+            ],
+            "tags": [
+                "GodPVE"
             ],
             "originalWishlist": "spacemonkey/controller/season-27"
         }
