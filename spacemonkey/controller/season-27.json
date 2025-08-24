@@ -522,7 +522,7 @@
                 "PVE"
             ],
             "originalWishlist": "spacemonkey/controller/season-27",
-            "description": "We dont know if this archetype is any good in PvP, so Im going to begin with reviewing just the PvE side of things. This could be a fantastic gun for bursting down elites and minibosses, and supports melee builds really well in addition. One-Two Punch is only 50% effective on this archetype, so probably just not worth it. My assumption at this point is that Trench Barrel will also be nerfed on this gun, so Im preparing myself for disappointment there. Vorpal + Cascade Point sounds too funny. Also, the API currently is showing that Aureus Neutralizer will drop with shotgun barrels rather than gun barrels (like the just released Phoneutria Fera has). Im guessing this might be a bug, but Im going to give recommendations as though the API is correct for now. The main draw here is probably Vorpal + Cascade Point for a Lucky Pants hunter.\nPvE Masterworks: Reload, Range, Handling"
+            "description": "This could be a fantastic gun for bursting down elites and minibosses, and supports melee builds really well in addition. One-Two Punch is only 50% effective on this archetype, so probably just not worth it. My assumption at this point is that Trench Barrel will also be nerfed on this gun, so Im preparing myself for disappointment there. Vorpal + Cascade Point sounds too funny. Also, the API currently is showing that Aureus Neutralizer will drop with shotgun barrels rather than gun barrels (like the just released Phoneutria Fera has). Im guessing this might be a bug, but Im going to give recommendations as though the API is correct for now. The main draw here is probably Vorpal + Cascade Point for a Lucky Pants hunter. For PvP this is a surprisingly excellent weapon thats been added.\nPvE Masterworks: Reload, Range, Handling\nPvP Masterworks: Range, Handling"
         },
         {
             "hash": 3981920134,
@@ -556,6 +556,64 @@
             ],
             "tags": [
                 "GodPVE"
+            ],
+            "originalWishlist": "spacemonkey/controller/season-27"
+        },
+        {
+            "hash": 3981920134,
+            "plugs": [
+                [
+                    4090651448,
+                    1482024992,
+                    1300023272,
+                    111235976,
+                    2860123632,
+                    2371713880
+                ],
+                [
+                    3142289711,
+                    3267421167
+                ],
+                [
+                    2579169598,
+                    4071163871,
+                    2073244114,
+                    494941759
+                ],
+                [
+                    47981717,
+                    3673922083,
+                    1370847713,
+                    2889515627
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ],
+            "originalWishlist": "spacemonkey/controller/season-27"
+        },
+        {
+            "hash": 3981920134,
+            "plugs": [
+                [
+                    4090651448,
+                    111235976
+                ],
+                [
+                    3142289711,
+                    3267421167
+                ],
+                [
+                    2579169598,
+                    2073244114
+                ],
+                [
+                    47981717,
+                    1370847713
+                ]
+            ],
+            "tags": [
+                "GodPVP"
             ],
             "originalWishlist": "spacemonkey/controller/season-27"
         },
@@ -970,25 +1028,25 @@
                     3525010810,
                     3798852852,
                     3809316345,
-                    1441682018,
                     3250572790,
                     582768348,
-                    2052299741,
-                    1639399262
+                    2052299741
                 ],
                 [
                     2822142346,
                     2108812838
                 ],
                 [
-                    3523296417,
                     2010801679,
-                    923806249,
+                    3987942396,
                     1017229899,
-                    1906147653,
+                    923806249,
+                    3523296417,
                     3797647183,
+                    2817499044,
+                    3696140595,
                     3422796781,
-                    3696140595
+                    1906147653
                 ],
                 [
                     243981275,
@@ -1007,7 +1065,7 @@
                 "PVE"
             ],
             "originalWishlist": "spacemonkey/controller/season-27",
-            "description": "The hype for this would have been pretty unreal if attrition orbs hadnt been nerfed on this archetype. Sadly this will struggle when compared to Lost Signal (autoloading holster) and is mostly directly comparable to VS Velocity Baton - which is also better than this since Destabilizing Rounds as a column 2 perk is better than any of the damage perks this one gets for this frame. A cool weapon and a welcome addition to our arsenals regardless.\nPvE Masterworks: Reload, Handling"
+            "description": "The hype for this would have been pretty unreal if attrition orbs hadnt been nerfed on this archetype. Sadly this will struggle when compared to Lost Signal (autoloading holster) and is mostly directly comparable to VS Velocity Baton. A cool weapon and a welcome addition to our arsenals regardless. Blast Distributor is a bit of a sleeper perk here. Big grenade stat bump for one shot is pretty appealing - especially since there really arent many builds that max out grenade stat anyway so this is usually just a high QoL buff that any build should enjoy. The passive energy gain from Blast Distributor should probably outperform demolitionist AND the extra damage you can gain for your grenade by going over 100 is quite welcome. The big drawback of Blast Distributor though is that the buff is extremely short, so unless youre maining this gun it wont really be very valuable. Enhanced Envious Arsenal provides bonus ammo generation, which can make the gun go up to 100 ammo gen, so this is a nice bonus to have as a swap option on your roll. Slice can be thought of very similarly.\nPvE Masterworks: Reload, Handling"
         },
         {
             "hash": 3977654524,
@@ -1021,12 +1079,16 @@
                     2108812838
                 ],
                 [
-                    3523296417,
-                    1906147653
+                    2010801679,
+                    3797647183
                 ],
                 [
                     243981275,
-                    984655331
+                    4049631843,
+                    4104185692,
+                    984655331,
+                    859780267,
+                    3007133316
                 ]
             ],
             "tags": [
@@ -1041,25 +1103,25 @@
                     3525010810,
                     3798852852,
                     3809316345,
-                    1441682018,
                     3250572790,
                     582768348,
-                    2052299741,
-                    1639399262
+                    2052299741
                 ],
                 [
                     2822142346,
                     2108812838
                 ],
                 [
-                    3523296417,
                     2010801679,
-                    923806249,
+                    3987942396,
                     1017229899,
-                    1906147653,
+                    923806249,
+                    3523296417,
                     3797647183,
+                    2817499044,
+                    3696140595,
                     3422796781,
-                    3696140595
+                    1906147653
                 ],
                 [
                     243981275,
@@ -1078,7 +1140,7 @@
                 "PVE"
             ],
             "originalWishlist": "spacemonkey/controller/season-27",
-            "description": "The hype for this would have been pretty unreal if attrition orbs hadnt been nerfed on this archetype. Sadly this will struggle when compared to Lost Signal (autoloading holster) and is mostly directly comparable to VS Velocity Baton - which is also better than this since Destabilizing Rounds as a column 2 perk is better than any of the damage perks this one gets for this frame. A cool weapon and a welcome addition to our arsenals regardless.\nPvE Masterworks: Reload, Handling"
+            "description": "The hype for this would have been pretty unreal if attrition orbs hadnt been nerfed on this archetype. Sadly this will struggle when compared to Lost Signal (autoloading holster) and is mostly directly comparable to VS Velocity Baton. A cool weapon and a welcome addition to our arsenals regardless. Blast Distributor is a bit of a sleeper perk here. Big grenade stat bump for one shot is pretty appealing - especially since there really arent many builds that max out grenade stat anyway so this is usually just a high QoL buff that any build should enjoy. The passive energy gain from Blast Distributor should probably outperform demolitionist AND the extra damage you can gain for your grenade by going over 100 is quite welcome. The big drawback of Blast Distributor though is that the buff is extremely short, so unless youre maining this gun it wont really be very valuable. Enhanced Envious Arsenal provides bonus ammo generation, which can make the gun go up to 100 ammo gen, so this is a nice bonus to have as a swap option on your roll. Slice can be thought of very similarly.\nPvE Masterworks: Reload, Handling"
         },
         {
             "hash": 4019651319,
@@ -1092,12 +1154,16 @@
                     2108812838
                 ],
                 [
-                    3523296417,
-                    1906147653
+                    2010801679,
+                    3797647183
                 ],
                 [
                     243981275,
-                    984655331
+                    4049631843,
+                    4104185692,
+                    984655331,
+                    859780267,
+                    3007133316
                 ]
             ],
             "tags": [
@@ -1291,7 +1357,7 @@
                 "PVE"
             ],
             "originalWishlist": "spacemonkey/controller/season-27",
-            "description": "Its back again and this time it has been changed to be a precision frame - likely to differentiate it from Anamnesis from last season. It gets pretty standard void bow stuff now, and two pretty notable rolls with Dragonfly + Demoralize giving you a nice gameplay loop where you get one kill in a crowd, splash damage Dragonfly all around and soften up targets at the same time that you apply weaken to those same enemies which then allows for an easy cleanup. The other roll is the tried-and-true stock standard Repulsor Brace + Destabilizing Rounds roll that every void weapon must have in its contract. Sadly both origin traits that this gets are not good for this bow.\nPvE Masterworks: Draw Time, Accuracy"
+            "description": "Its back again and this time it has been changed to be a precision frame - likely to differentiate it from Anamnesis from last season. Nvm they changed it back to lightweight. It gets pretty standard void bow stuff now, and two pretty notable rolls with Dragonfly + Demoralize giving you a nice gameplay loop where you get one kill in a crowd, splash damage Dragonfly all around and soften up targets at the same time that you apply weaken to those same enemies which then allows for an easy cleanup. The other roll is the tried-and-true stock standard Repulsor Brace + Destabilizing Rounds roll that every void weapon must have in its contract. Sadly both origin traits that this gets are not good for this bow.\nPvE Masterworks: Draw Time, Accuracy"
         },
         {
             "hash": 2631466936,
@@ -1362,7 +1428,7 @@
                 "PVE"
             ],
             "originalWishlist": "spacemonkey/controller/season-27",
-            "description": "Its back again and this time it has been changed to be a precision frame - likely to differentiate it from Anamnesis from last season. It gets pretty standard void bow stuff now, and two pretty notable rolls with Dragonfly + Demoralize giving you a nice gameplay loop where you get one kill in a crowd, splash damage Dragonfly all around and soften up targets at the same time that you apply weaken to those same enemies which then allows for an easy cleanup. The other roll is the tried-and-true stock standard Repulsor Brace + Destabilizing Rounds roll that every void weapon must have in its contract. Sadly both origin traits that this gets are not good for this bow.\nPvE Masterworks: Draw Time, Accuracy"
+            "description": "Its back again and this time it has been changed to be a precision frame - likely to differentiate it from Anamnesis from last season. Nvm they changed it back to lightweight. It gets pretty standard void bow stuff now, and two pretty notable rolls with Dragonfly + Demoralize giving you a nice gameplay loop where you get one kill in a crowd, splash damage Dragonfly all around and soften up targets at the same time that you apply weaken to those same enemies which then allows for an easy cleanup. The other roll is the tried-and-true stock standard Repulsor Brace + Destabilizing Rounds roll that every void weapon must have in its contract. Sadly both origin traits that this gets are not good for this bow.\nPvE Masterworks: Draw Time, Accuracy"
         },
         {
             "hash": 591672323,
@@ -1888,21 +1954,21 @@
                     1135494563
                 ],
                 [
-                    4049631843,
                     3081867624,
-                    923806249,
                     3078487919,
-                    859780267,
+                    4049631843,
+                    923806249,
                     2963273944,
-                    3422796781,
-                    3744057135
+                    3744057135,
+                    859780267,
+                    3422796781
                 ]
             ],
             "tags": [
                 "PVE"
             ],
             "originalWishlist": "spacemonkey/controller/season-27",
-            "description": "Brand new archetype. Similar to the release of rocket sidearms this appears to be incredibly strong. The dps of the weapon appears to not be terrible (avoiding the one weakness of its rocket sidearm brethren) and it is also an absolute unit when doing add clear (though the ammo economy is atrocious - more on that later). Combine all of this with both origin traits being excellent for survivability - if champions/minibosses: problem solver, if no champions/minibosses: vanguard determination. In general, Problem Solver is probably more ideal since in any content where you arent fighting minibosses of any kind this gun is pretty much just overkill anyway. Column 2 is literally stacked top to bottom with good perks for this, with only Elemental Honing being a bit more annoying to use than Bait & Switch and Slice perhaps being redundant paired with the origin traits. In column 1 rewind rounds is pretty much the only real choice. Hatchling could work in a strictly add clear sense, especially when paired with chain reaction, but tbh the gun is probably more suited to bursting down elites and chunking minibosses - especially because it will be great at cleaning red bars no matter what the roll is, so you dont have to feel pinned down to a full add clear roll. A lot of people will prefer One for All here.Usually I would say here that I personally I dont love the ease of use experience of One for All since the buff expires with no way to extend and it ties you down to using just this gun in order to both proc the perk and take advantage of the effect - however, due to the 3 burst and huge blast radius of the shots it is super easy to proc OfA freely on demand for the most part. Master of Arms is a more friendly perk that allows you to use all your weapons and abilities freely, extending the buff freely and only at the cost of some damage. Bait & Switch will likely be the choice if this gun winds up being a legitimate supplemental dps option. We dont yet have extensive testing on how important the Velocity and Blast Radius stats are on this archetype. My assumption is that a healthy mix of both is probably the right call, especially if you can eschew the reload stat by using rewind rounds. Will definitely update this stat section as we learn more.\nNow having some playtime with the gun (my roll is rewind+one for all) it is definitely a cool gun and it feels pretty nice to use. That being said, the ammo economy is a major problem here. Unlike rocket sidearms the gun basically cant be used for clearing red bars at all since it is just a profound waste of ammo. This makes perks like Chain Reaction kinda iffy tbh. Also the gun has so little ammo I cannot imagine it ever really being a feasible supplemental DPS (let alone DPS) option, so those perks are also looking iffy. That all being said, Master of Arms is likely just flat out the top option here since it will allow you to clear adds with your primary and then whip out a buffed rocket pulse to murderize elites/chunk minibosses. In a lot of ideal use case scenarios One for All does seem to function well, since there are a fair number of encounters where packs of elites spawn and thats where this roll would shine. Slice might also be a good play since it just doubles/triples down on the guns utility for survivability. Rewind Rounds is ideal, but tbh it doesnt seem mandatory on a non-DPS roll, which might mean that +mag perks are probably ideal on non-Rewind rolls. Speaking of +mag perks\nFor yet another piece of random esoterica that wound up being very important here, this gun appears to be a linear fusion rifle under the hood, which means that it has inherited the odd behavior of the weapon familys interactions with ammo and reserves. What this means, in practical terms, is that the +mag size you get from the likes of Tactical or Appended Mag (and the backup mag mod) also means that not only do you get an increased magazine size you also get increased reserves AND ammo per brick. This is completely gamechanging for the gun since now with just Tactical Mag you get almost an entire extra magazines worth of ammo at max (which is roughly a ~25% increase in total damage) AND you get an entire extra shot per pickup (going from 2 to 3), which is again a 33% increase in total prospective damage across an encounter. This means that THE ABSOLUTE MOST IMPORTANT PERK on this gun is a mag increase - either Tactical or Appended in general, or Extended if you get Rewind Rounds. And also to note, Backup Mag is all it takes to increase the ammo per brick from 2 to 3, so this gun must always use Backup Mag. And lastly, High-Explosive Ordnance should be avoided like the plague; it will actually drop the total reserves down to 14, less than 3 total mags :O\nPvE Masterworks: Blast Radius, Reload, Velocity, Handling\nPvE 2 Masterworks: Blast Radius, Velocity, Handling, Reload"
+            "description": "Brand new archetype. Similar to the release of rocket sidearms this appears to be incredibly strong. The dps of the weapon appears to not be terrible (avoiding the one weakness of its rocket sidearm brethren) and it is also an absolute unit when doing add clear (though the ammo economy is atrocious - more on that later). Combine all of this with both origin traits being excellent for survivability - if champions/minibosses: problem solver, if no champions/minibosses: vanguard determination. In general, Problem Solver is probably more ideal since in any content where you arent fighting minibosses of any kind this gun is pretty much just overkill anyway. Column 2 is literally stacked top to bottom with good perks for this, with only Elemental Honing being a bit more annoying to use than Bait & Switch and Slice perhaps being redundant paired with the origin traits. In column 1 rewind rounds is pretty much the only real choice. Hatchling could work in a strictly add clear sense, especially when paired with chain reaction, but tbh the gun is probably more suited to bursting down elites and chunking minibosses - especially because it will be great at cleaning red bars no matter what the roll is, so you dont have to feel pinned down to a full add clear roll. A lot of people will prefer One for All here.Usually I would say here that I personally I dont love the ease of use experience of One for All since the buff expires with no way to extend and it ties you down to using just this gun in order to both proc the perk and take advantage of the effect - however, due to the 3 burst and huge blast radius of the shots it is super easy to proc OfA freely on demand for the most part. Master of Arms is a more friendly perk that allows you to use all your weapons and abilities freely, extending the buff freely and only at the cost of some damage. Bait & Switch will likely be the choice if this gun winds up being a legitimate supplemental dps option. We dont yet have extensive testing on how important the Velocity and Blast Radius stats are on this archetype. My assumption is that a healthy mix of both is probably the right call, especially if you can eschew the reload stat by using rewind rounds. Will definitely update this stat section as we learn more.\nNow having some playtime with the gun (my roll is rewind+one for all) it is definitely a cool gun and it feels pretty nice to use. That being said, the ammo economy is a major problem here. Unlike rocket sidearms the gun basically cant be used for clearing red bars at all since it is just a profound waste of ammo. This makes perks like Chain Reaction kinda iffy tbh. Also the gun has so little ammo I cannot imagine it ever really being a feasible supplemental DPS (let alone DPS) option, so those perks are also looking iffy. That all being said, Master of Arms is likely just flat out the top option here since it will allow you to clear adds with your primary and then whip out a buffed rocket pulse to murderize elites/chunk minibosses. In a lot of ideal use case scenarios One for All does seem to function well, since there are a fair number of encounters where packs of elites spawn and thats where this roll would shine. Slice might also be a good play since it just doubles/triples down on the guns utility for survivability. Rewind Rounds is ideal, but tbh it doesnt seem mandatory on a non-DPS roll, which might mean that +mag perks are probably ideal on non-Rewind rolls. Speaking of +mag perks\nFor yet another piece of random esoterica that wound up being very important here, this gun appears to be a linear fusion rifle under the hood, which means that it has inherited the odd behavior of the weapon familys interactions with ammo and reserves. What this means, in practical terms, is that the +mag size you get from the likes of Tactical or Appended Mag (and the backup mag mod) also means that not only do you get an increased magazine size you also get increased reserves AND ammo per brick. This is completely gamechanging for the gun since now with just Tactical Mag you get almost an entire extra magazines worth of ammo at max (which is roughly a ~25% increase in total damage) AND you get an entire extra shot per pickup (going from 2 to 3), which is again a 33% increase in total prospective damage across an encounter. This means that THE ABSOLUTE MOST IMPORTANT PERK on this gun is a mag increase - either Tactical or Appended in general, or Extended if you get Rewind Rounds. And also to note, Backup Mag is all it takes to increase the ammo per brick from 2 to 3, so this gun must always use Backup Mag. Turns out that enhanced Backup Mag (mod that can be added to any t4 or t5 roll) gives the max of 7 in the mag and all the benefits discussed above. This means that the mag column can largely be ignored on a t4/t5 roll with the notable exception being that High-Explosive Ordnance should be avoided like the plague.\nPvE Masterworks: Handling, Blast Radius, Reload, Velocity\nPvE 2 Masterworks: Blast Radius, Velocity, Handling, Reload"
         },
         {
             "hash": 42435996,
@@ -1924,14 +1990,14 @@
                     1563455254
                 ],
                 [
-                    4049631843,
                     3081867624,
-                    923806249,
                     3078487919,
-                    859780267,
+                    4049631843,
+                    923806249,
                     2963273944,
-                    3422796781,
-                    3744057135
+                    3744057135,
+                    859780267,
+                    3422796781
                 ]
             ],
             "tags": [
@@ -2029,11 +2095,13 @@
                     2398680997
                 ],
                 [
-                    2955427634,
+                    3603807747,
                     1202133695,
+                    2955427634,
                     1069117426,
-                    2783367502,
+                    2523856971,
                     2181638943,
+                    2783367502,
                     2552577806
                 ],
                 [
@@ -2055,7 +2123,7 @@
                 "PVE"
             ],
             "originalWishlist": "spacemonkey/controller/season-27",
-            "description": "Very unique and interesting weapon. The actual configuration of the gun is pretty random, and mostly determined by the Bolts column. You can make it deal explosive damage to help with add clear, have the bolt itself deal extra damage, have it apply a damage-over-time effect, to name a few. The Rail column mostly just gives nice stats, including the new persistence stat that determines how long the bolts last in the environment before expiring. Unfortunately in the case of the DoT effect from Charged Bolts the Persistence stat does not benefit like it should. It should also be noted that Vorpal seems to be bugged on the gun currently, giving way more damage than it possibly should . Also, bolts can be collected after shooting them (and in the case of Serrated Bolts deals damage when you remove them from an enemy), which means this is a legendary heavy weapon with technically infinite ammo!\nPvE Masterworks: Reload, Persistence, Velocity"
+            "description": "Very unique and interesting weapon. The actual configuration of the gun is pretty random, and mostly determined by the Bolts column. You can make it deal explosive damage to help with add clear, have the bolt itself deal extra damage, have it apply a damage-over-time effect, to name a few. The Rail column mostly just gives nice stats, including the new persistence stat that determines how long the bolts last in the environment before expiring. Unfortunately in the case of the DoT effect from Charged Bolts the Persistence stat does not benefit like it should. It should also be noted that Vorpal seems to be bugged on the gun currently, giving way more damage than it possibly should . Also, bolts can be collected after shooting them (and in the case of Serrated Bolts deals damage when you remove them from an enemy), which means this is a legendary heavy weapon with technically infinite ammo! Explosive Bolts seems to be the best bolt for DPS (buffed by a Hierarchy of Needs ring fwiw, which you can technically make yourself since this bow is legendary). It should be noted that the Temporal Blast mod on this weapon is an absolutely insane damage increase right now.\nPvE Masterworks: Reload, Persistence, Velocity"
         },
         {
             "hash": 1553681400,
@@ -2065,8 +2133,10 @@
                     3128149872
                 ],
                 [
-                    2955427634,
-                    2783367502
+                    3603807747,
+                    1202133695,
+                    2523856971,
+                    2181638943
                 ],
                 [
                     951095735,
@@ -2075,8 +2145,10 @@
                 [
                     4104185692,
                     1546637391,
+                    1089671869,
                     3007133316,
-                    3418165135
+                    3418165135,
+                    496047945
                 ]
             ],
             "tags": [
@@ -2203,7 +2275,7 @@
                 "PVE"
             ],
             "originalWishlist": "spacemonkey/controller/season-27",
-            "description": "One of two new Spread Shot hand cannons being added to the game. This one was mostly going to be a beast as a support for melee builds, except that One-Two Punch is only 50% effective on this gun. The way the math works out it really isnt worth it here, and youre better off using a real one-two punch weapon and use this as primary add clear. The reload and range are both problematic, which should have made Slideshot the default best option here - but unfortunately it doesnt reload enough ammo per slide to justify the slot. Proximity Power sounds good on paper, but in reality any build that is going hard into melee is likely already selling out big time for the 200 melee stat anyway and you dont really want to be tied to your whole build only working when a perk on a weapon activates. The major benefit of this gun is the high damage that it deals when at close range and mixing it up, so to that end Surrounded (especially enhanced Surrounded) is probably the best choice for those wanting to use this weapon. That (or Incandescent tbh) paired with either of the Threat perk 1s is probably the ideal combo, and then you really need Reload > Range > Mag Size. Very stat hungry weapon. The Tenacity origin trait is awesome btw. You get up to 20% damage, 40 reload, and 40 handling based on stacks - kinda like a better Field Tested, which I love - granted, Tenacity needs kills with at least 2 enemies within 15 meters, whereas Field Tested just needs hits, but the point stands.\nPvE Masterworks: Reload, Range, Handling"
+            "description": "One of two new Spread Shot hand cannons being added to the game. This one was mostly going to be a beast as a support for melee builds, except that One-Two Punch is only 50% effective on this gun. The way the math works out it really isnt worth it here, and youre better off using a real one-two punch weapon and use this as primary add clear. The reload and range are both problematic, which should have made Slideshot the default best option here - but unfortunately it doesnt reload enough ammo per slide to justify the slot. Proximity Power sounds good on paper, but in reality any build that is going hard into melee is likely already selling out big time for the 200 melee stat anyway and you dont really want to be tied to your whole build only working when a perk on a weapon activates. The major benefit of this gun is the high damage that it deals when at close range and mixing it up, so to that end Surrounded (especially enhanced Surrounded) is probably the best choice for those wanting to use this weapon. That (or Incandescent tbh) paired with either of the Threat perk 1s is probably the ideal combo, and then you really need Reload > Range > Mag Size. Very stat hungry weapon. The Tenacity origin trait is awesome btw. You get up to 20% damage, 40 reload, and 40 handling based on stacks - kinda like a better Field Tested, which I love - granted, Tenacity needs kills with at least 2 enemies within 15 meters, whereas Field Tested just needs hits, but the point stands. This archetype is surprisingly excellent in PvP, though the Trials version, Aureus Neutralizer, looks to be superior - especially since we cant seem to get a t5 version of this gun yet.\nPvE Masterworks: Reload, Range, Handling\nPvP Masterworks: Range, Handling"
         },
         {
             "hash": 3496887154,
@@ -2239,6 +2311,68 @@
             "originalWishlist": "spacemonkey/controller/season-27"
         },
         {
+            "hash": 3496887154,
+            "plugs": [
+                [
+                    3250034553,
+                    4090651448,
+                    1482024992,
+                    1840239774,
+                    1147230557,
+                    111235976,
+                    2860123632,
+                    1124871858
+                ],
+                [
+                    3142289711,
+                    3267421167
+                ],
+                [
+                    4071163871,
+                    3161816588,
+                    494941759,
+                    191144788
+                ],
+                [
+                    4082225868,
+                    4293542123,
+                    2679249093,
+                    1161469972,
+                    2675184851,
+                    788178929
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ],
+            "originalWishlist": "spacemonkey/controller/season-27"
+        },
+        {
+            "hash": 3496887154,
+            "plugs": [
+                [
+                    3250034553,
+                    1147230557
+                ],
+                [
+                    3142289711,
+                    3267421167
+                ],
+                [
+                    4071163871,
+                    494941759
+                ],
+                [
+                    4082225868,
+                    1161469972
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ],
+            "originalWishlist": "spacemonkey/controller/season-27"
+        },
+        {
             "hash": 3804242792,
             "plugs": [
                 [
@@ -2290,7 +2424,7 @@
                 "PVE"
             ],
             "originalWishlist": "spacemonkey/controller/season-27",
-            "description": "One of two new Spread Shot hand cannons being added to the game. This one was mostly going to be a beast as a support for melee builds, except that One-Two Punch is only 50% effective on this gun. The way the math works out it really isnt worth it here, and youre better off using a real one-two punch weapon and use this as primary add clear. The reload and range are both problematic, which should have made Slideshot the default best option here - but unfortunately it doesnt reload enough ammo per slide to justify the slot. Proximity Power sounds good on paper, but in reality any build that is going hard into melee is likely already selling out big time for the 200 melee stat anyway and you dont really want to be tied to your whole build only working when a perk on a weapon activates. The major benefit of this gun is the high damage that it deals when at close range and mixing it up, so to that end Surrounded (especially enhanced Surrounded) is probably the best choice for those wanting to use this weapon. That (or Incandescent tbh) paired with either of the Threat perk 1s is probably the ideal combo, and then you really need Reload > Range > Mag Size. Very stat hungry weapon. The Tenacity origin trait is awesome btw. You get up to 20% damage, 40 reload, and 40 handling based on stacks - kinda like a better Field Tested, which I love - granted, Tenacity needs kills with at least 2 enemies within 15 meters, whereas Field Tested just needs hits, but the point stands.\nPvE Masterworks: Reload, Range, Handling"
+            "description": "One of two new Spread Shot hand cannons being added to the game. This one was mostly going to be a beast as a support for melee builds, except that One-Two Punch is only 50% effective on this gun. The way the math works out it really isnt worth it here, and youre better off using a real one-two punch weapon and use this as primary add clear. The reload and range are both problematic, which should have made Slideshot the default best option here - but unfortunately it doesnt reload enough ammo per slide to justify the slot. Proximity Power sounds good on paper, but in reality any build that is going hard into melee is likely already selling out big time for the 200 melee stat anyway and you dont really want to be tied to your whole build only working when a perk on a weapon activates. The major benefit of this gun is the high damage that it deals when at close range and mixing it up, so to that end Surrounded (especially enhanced Surrounded) is probably the best choice for those wanting to use this weapon. That (or Incandescent tbh) paired with either of the Threat perk 1s is probably the ideal combo, and then you really need Reload > Range > Mag Size. Very stat hungry weapon. The Tenacity origin trait is awesome btw. You get up to 20% damage, 40 reload, and 40 handling based on stacks - kinda like a better Field Tested, which I love - granted, Tenacity needs kills with at least 2 enemies within 15 meters, whereas Field Tested just needs hits, but the point stands. This archetype is surprisingly excellent in PvP, though the Trials version, Aureus Neutralizer, looks to be superior - especially since we cant seem to get a t5 version of this gun yet.\nPvE Masterworks: Reload, Range, Handling\nPvP Masterworks: Range, Handling"
         },
         {
             "hash": 3804242792,
@@ -2322,6 +2456,68 @@
             ],
             "tags": [
                 "GodPVE"
+            ],
+            "originalWishlist": "spacemonkey/controller/season-27"
+        },
+        {
+            "hash": 3804242792,
+            "plugs": [
+                [
+                    3250034553,
+                    4090651448,
+                    1482024992,
+                    1840239774,
+                    1147230557,
+                    111235976,
+                    2860123632,
+                    1124871858
+                ],
+                [
+                    3142289711,
+                    3267421167
+                ],
+                [
+                    4071163871,
+                    3161816588,
+                    494941759,
+                    191144788
+                ],
+                [
+                    4082225868,
+                    4293542123,
+                    2679249093,
+                    1161469972,
+                    2675184851,
+                    788178929
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ],
+            "originalWishlist": "spacemonkey/controller/season-27"
+        },
+        {
+            "hash": 3804242792,
+            "plugs": [
+                [
+                    3250034553,
+                    1147230557
+                ],
+                [
+                    3142289711,
+                    3267421167
+                ],
+                [
+                    4071163871,
+                    494941759
+                ],
+                [
+                    4082225868,
+                    1161469972
+                ]
+            ],
+            "tags": [
+                "GodPVP"
             ],
             "originalWishlist": "spacemonkey/controller/season-27"
         },
@@ -2377,7 +2573,7 @@
                 "PVE"
             ],
             "originalWishlist": "spacemonkey/controller/season-27",
-            "description": "One of two new Spread Shot hand cannons being added to the game. This one was mostly going to be a beast as a support for melee builds, except that One-Two Punch is only 50% effective on this gun. The way the math works out it really isnt worth it here, and youre better off using a real one-two punch weapon and use this as primary add clear. The reload and range are both problematic, which should have made Slideshot the default best option here - but unfortunately it doesnt reload enough ammo per slide to justify the slot. Proximity Power sounds good on paper, but in reality any build that is going hard into melee is likely already selling out big time for the 200 melee stat anyway and you dont really want to be tied to your whole build only working when a perk on a weapon activates. The major benefit of this gun is the high damage that it deals when at close range and mixing it up, so to that end Surrounded (especially enhanced Surrounded) is probably the best choice for those wanting to use this weapon. That (or Incandescent tbh) paired with either of the Threat perk 1s is probably the ideal combo, and then you really need Reload > Range > Mag Size. Very stat hungry weapon. The Tenacity origin trait is awesome btw. You get up to 20% damage, 40 reload, and 40 handling based on stacks - kinda like a better Field Tested, which I love - granted, Tenacity needs kills with at least 2 enemies within 15 meters, whereas Field Tested just needs hits, but the point stands.\nPvE Masterworks: Reload, Range, Handling"
+            "description": "One of two new Spread Shot hand cannons being added to the game. This one was mostly going to be a beast as a support for melee builds, except that One-Two Punch is only 50% effective on this gun. The way the math works out it really isnt worth it here, and youre better off using a real one-two punch weapon and use this as primary add clear. The reload and range are both problematic, which should have made Slideshot the default best option here - but unfortunately it doesnt reload enough ammo per slide to justify the slot. Proximity Power sounds good on paper, but in reality any build that is going hard into melee is likely already selling out big time for the 200 melee stat anyway and you dont really want to be tied to your whole build only working when a perk on a weapon activates. The major benefit of this gun is the high damage that it deals when at close range and mixing it up, so to that end Surrounded (especially enhanced Surrounded) is probably the best choice for those wanting to use this weapon. That (or Incandescent tbh) paired with either of the Threat perk 1s is probably the ideal combo, and then you really need Reload > Range > Mag Size. Very stat hungry weapon. The Tenacity origin trait is awesome btw. You get up to 20% damage, 40 reload, and 40 handling based on stacks - kinda like a better Field Tested, which I love - granted, Tenacity needs kills with at least 2 enemies within 15 meters, whereas Field Tested just needs hits, but the point stands. This archetype is surprisingly excellent in PvP, though the Trials version, Aureus Neutralizer, looks to be superior - especially since we cant seem to get a t5 version of this gun yet.\nPvE Masterworks: Reload, Range, Handling\nPvP Masterworks: Range, Handling"
         },
         {
             "hash": 3804242793,
@@ -2409,6 +2605,68 @@
             ],
             "tags": [
                 "GodPVE"
+            ],
+            "originalWishlist": "spacemonkey/controller/season-27"
+        },
+        {
+            "hash": 3804242793,
+            "plugs": [
+                [
+                    3250034553,
+                    4090651448,
+                    1482024992,
+                    1840239774,
+                    1147230557,
+                    111235976,
+                    2860123632,
+                    1124871858
+                ],
+                [
+                    3142289711,
+                    3267421167
+                ],
+                [
+                    4071163871,
+                    3161816588,
+                    494941759,
+                    191144788
+                ],
+                [
+                    4082225868,
+                    4293542123,
+                    2679249093,
+                    1161469972,
+                    2675184851,
+                    788178929
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ],
+            "originalWishlist": "spacemonkey/controller/season-27"
+        },
+        {
+            "hash": 3804242793,
+            "plugs": [
+                [
+                    3250034553,
+                    1147230557
+                ],
+                [
+                    3142289711,
+                    3267421167
+                ],
+                [
+                    4071163871,
+                    494941759
+                ],
+                [
+                    4082225868,
+                    1161469972
+                ]
+            ],
+            "tags": [
+                "GodPVP"
             ],
             "originalWishlist": "spacemonkey/controller/season-27"
         },
@@ -2551,9 +2809,11 @@
                 ],
                 [
                     3987942396,
+                    2213355989,
                     25606670,
                     4071163871,
                     2817499044,
+                    2002547233,
                     3143051906,
                     494941759
                 ],
@@ -2583,11 +2843,15 @@
                 ],
                 [
                     3987942396,
-                    2817499044
+                    2213355989,
+                    2817499044,
+                    2002547233
                 ],
                 [
                     3078487919,
-                    3744057135
+                    1134488199,
+                    3744057135,
+                    2904194311
                 ]
             ],
             "tags": [
@@ -3525,7 +3789,7 @@
                 "PVE"
             ],
             "originalWishlist": "spacemonkey/controller/season-27",
-            "description": "Huge disappointment. I was really excited about the possibilities here with this gun for DPS especially with the origin trait being a wildcard, but its perk 1 column is straight out of 2023. This is also not even the best archetype for damage, and its far from the best archetype for general play. This weapon legitimately is just as mediocre as it could possibly be, when it could have been the absolute most chase-worthy weapon in the game. HOWEVER, there is one possible niche for this gun, and it involves the bizarre Reapers Tithe perk. Between this perk and the origin trait if you get 4 or 5 kills with one rocket, reload, and stow - then the next time you pull out the gun youll have like 50% damage for a decent amount of time, giving you a window to do some old school hard-reload rocket spam. Its very gimmicky and probably not worth it, but at least it is something unique.\nPvE Masterworks: Reload, Handling"
+            "description": "The perk 1 column is straight out of 2023, but the new bizarre Reapers Tithe perk is actually pretty badass on this weapon. Between this perk and the origin trait if you get 4 or 5 kills with one rocket, reload, and stow - then the next time you pull out the gun youll have like 50% damage for a decent amount of time, giving you a window to do some old school hard-reload rocket spam. With just a bit of set up this should be a legit strategy for DPS that doesnt involve crazy swap rotations or the like.\nPvE Masterworks: Reload, Handling"
         },
         {
             "hash": 1090936013,
@@ -4160,8 +4424,10 @@
                 [
                     2890807135,
                     3640170453,
+                    4293542123,
                     3581929919,
-                    1817983009
+                    1817983009,
+                    2675184851
                 ]
             ],
             "tags": [
@@ -4243,8 +4509,10 @@
                 [
                     2890807135,
                     3640170453,
+                    4293542123,
                     3581929919,
-                    1817983009
+                    1817983009,
+                    2675184851
                 ]
             ],
             "tags": [
