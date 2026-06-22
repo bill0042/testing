@@ -2711,8 +2711,8 @@
                     3250572790
                 ],
                 [
-                    3796465595,
-                    274905539
+                    2985827016,
+                    1439751480
                 ],
                 [
                     1439600632,
@@ -4505,27 +4505,21 @@
                     550838496
                 ],
                 [
-                    243981275,
-                    2289534249,
+                    247725512,
                     1015611457,
-                    984655331,
-                    3914874605,
+                    2938480696,
                     2923251173
                 ],
                 [
                     3891536761,
-                    1202584452,
-                    3640170453,
-                    1549370717,
-                    2138673996,
-                    1817983009
+                    1549370717
                 ]
             ],
             "tags": [
                 "PVE"
             ],
             "originalWishlist": "aegis/mnk+controller",
-            "description": "AO + KT, good kinetic perks, awkward Chaos pairing, good frame\nRank # in Pulses\nRank #2 in Kinetic Pulses behind:\n- Blast Furnace (S28)"
+            "description": "A-Tier\n\nRank #23 in Pulses\nRank #2 in Kinetic Pulses behind:\n- Blast Furnace (S28)"
         },
         {
             "hash": 830651379,
@@ -4543,27 +4537,21 @@
                     550838496
                 ],
                 [
-                    243981275,
-                    2289534249,
+                    247725512,
                     1015611457,
-                    984655331,
-                    3914874605,
+                    2938480696,
                     2923251173
                 ],
                 [
                     3891536761,
-                    1202584452,
-                    3640170453,
-                    1549370717,
-                    2138673996,
-                    1817983009
+                    1549370717
                 ]
             ],
             "tags": [
                 "PVE"
             ],
             "originalWishlist": "aegis/mnk+controller",
-            "description": "AO + KT, good kinetic perks, awkward Chaos pairing, good frame\nRank # in Pulses\nRank #2 in Kinetic Pulses behind:\n- Blast Furnace (S28)"
+            "description": "A-Tier\n\nRank #23 in Pulses\nRank #2 in Kinetic Pulses behind:\n- Blast Furnace (S28)"
         },
         {
             "hash": 938936806,
@@ -17726,7 +17714,9 @@
                 ],
                 [
                     1089671869,
-                    496047945
+                    555281244,
+                    496047945,
+                    332733060
                 ]
             ],
             "tags": [
@@ -20676,26 +20666,20 @@
                 ],
                 [
                     2048641572,
-                    3182497402,
-                    4019266109,
-                    1926441324,
-                    1767911158,
-                    2613226185
+                    1926441324
                 ],
                 [
                     776531651,
-                    3640170453,
-                    1134488199,
+                    4049631843,
                     2541826827,
-                    1817983009,
-                    2904194311
+                    859780267
                 ]
             ],
             "tags": [
                 "PVE"
             ],
             "originalWishlist": "aegis/mnk+controller",
-            "description": "Every relevant void perk and chaos to boot, great all around\nRank # in Autos\nRank #1 in Void Autos"
+            "description": "S-Tier\n\nRank #4 in Autos\nRank #1 in Void Autos"
         },
         {
             "hash": 1802315656,
@@ -20714,26 +20698,20 @@
                 ],
                 [
                     2048641572,
-                    3182497402,
-                    4019266109,
-                    1926441324,
-                    1767911158,
-                    2613226185
+                    1926441324
                 ],
                 [
                     776531651,
-                    3640170453,
-                    1134488199,
+                    4049631843,
                     2541826827,
-                    1817983009,
-                    2904194311
+                    859780267
                 ]
             ],
             "tags": [
                 "PVE"
             ],
             "originalWishlist": "aegis/mnk+controller",
-            "description": "Every relevant void perk and chaos to boot, great all around\nRank # in Autos\nRank #1 in Void Autos"
+            "description": "S-Tier\n\nRank #4 in Autos\nRank #1 in Void Autos"
         },
         {
             "hash": 1572896086,
@@ -31516,27 +31494,21 @@
                     550838496
                 ],
                 [
-                    3824105627,
-                    2890807135,
                     3038247973,
-                    1183436451,
-                    3581929919,
                     64866129
                 ],
                 [
-                    3640170453,
-                    657025441,
                     4293542123,
-                    1817983009,
-                    4196156997,
-                    2675184851
+                    4049631843,
+                    2675184851,
+                    859780267
                 ]
             ],
             "tags": [
                 "PVE"
             ],
             "originalWishlist": "aegis/mnk+controller",
-            "description": "Slow reload animation but very lethal perk combos\nRank # in Hand cannons\nRank #1 in Solar Hand cannons"
+            "description": "A-Tier\n\nRank #6 in Hand cannons\nRank #1 in Solar Hand cannons"
         },
         {
             "hash": 3647341740,
@@ -31552,27 +31524,21 @@
                     550838496
                 ],
                 [
-                    3824105627,
-                    2890807135,
                     3038247973,
-                    1183436451,
-                    3581929919,
                     64866129
                 ],
                 [
-                    3640170453,
-                    657025441,
                     4293542123,
-                    1817983009,
-                    4196156997,
-                    2675184851
+                    4049631843,
+                    2675184851,
+                    859780267
                 ]
             ],
             "tags": [
                 "PVE"
             ],
             "originalWishlist": "aegis/mnk+controller",
-            "description": "Slow reload animation but very lethal perk combos\nRank # in Hand cannons\nRank #1 in Solar Hand cannons"
+            "description": "A-Tier\n\nRank #6 in Hand cannons\nRank #1 in Solar Hand cannons"
         },
         {
             "hash": 2720651699,
